@@ -1,6 +1,14 @@
 [package]
-name = "hello-world"
+name = "hello"
 version = "0.1.0"
 edition = "2021"
+
+[lib]
+name = "math_operations"
+path = "src/lib.rs"
+
+[[bin]]
+name = "hello"
+path = "src/main.rs"
 
 [dependencies]
