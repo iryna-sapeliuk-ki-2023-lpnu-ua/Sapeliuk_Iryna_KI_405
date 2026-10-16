@@ -67,4 +67,4 @@ Frontmatter: name: github-actions, description. Розділи:
 7. Типовий сценарій помилки: якщо ci.sh або ci.bat відсутні — зупинити роботу та запропонувати спочатку виконати build-and-test.
 8. Приклад: вхід ci.sh і ci.bat; очікуваний результат: ci.yml з матрицею із трьох ОС.
 
-відповідь AI: Створив .github/skills/github-actions/SKILL.md з YAML frontmatter і всіма запитаними розділами. Уточнив платформні способи запуску ci.sh/ci.bat, збереження артефакту та заборону прямих команд Cargo у workflow.
+відповідь AI: Створив .github/skills/github-actions/SKILL.md з YAML frontmatter і всіма запитаними розділами. Уточнив платформні способи запуску ci.sh/ci.bat, збереження артефакту та заборону прямих команд Cargo у workflow.і
